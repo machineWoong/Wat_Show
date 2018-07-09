@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Wat_Show</string>
+
+    <!--드로어 레이아웃-->
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
 </resources>
